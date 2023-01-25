@@ -1,7 +1,7 @@
 - 👋 Oi, me chamo @ThulioFonseca;
 - 🎓 Sou estudante de Sistemas de Informação, pelo IFMG - Campus Ouro Branco;
-- 👀 Estou em busca da minha transição de carreira para a área de Desenvolvimento de Software e afins;
-- 🖥️ Mando bem em JAVA e atualmente estou estudando HTML, CSS, Javascript e C#; 
+- 👀 Estou em meio a uma transição de carreira, saindo da área de automação industrial e iniciando minha jornada como Desenvolvedor de Software;
+- 🖥️ Mando bem em C# e JAVA e sei me virar com HTML, CSS, Javascript; 
 - 🌐 Tenho boa leitura, interpretação e escrita em Inglês, preciso praticar "Speaking";
 - 🤓 Sou entusiasta do Motion Design. After Effects já é um parceiro - confira meus trabalhos no Instagram @tfxmotion;
 - 🎸 Meu Hobbie favorito é tocar violão... ou me arriscar em qualquer outro instrumento rsrs!
