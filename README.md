@@ -1,10 +1,10 @@
 - 👋 Oi, me chamo @ThulioFonseca;
-- 🎓 Sou estudante de Sistemas de Informação, pelo IFMG - Campus Ouro Branco;
-- 👀 Estou em meio a uma transição de carreira, saindo da área de automação industrial e iniciando minha jornada como Desenvolvedor de Software;
-- 🖥️ Mando bem em C# e JAVA e sei me virar com HTML, CSS, Javascript; 
+- 🎓 Estou no último período do curso de Sistemas de Informação, pelo IFMG - Campus Ouro Branco;
+- 🖥️ Sou desenvolvedor Full-Stack e as tecnologias que mais domino são: .Net/ASP.Net, ReactJS, Docker, RabbitMQ, SQL Server e Git.
+- ☁️ Estou focado em desenvolver minhas habilidades na plataforma Azure - já estou bem familiarizado com os principais serviços: Functions, Service Bus, App Service e etc...
+- ⚡ Sou técnico em eletrônica e me interesso muito por embarcados, IoT e Arduino.
 - 🌐 Tenho boa leitura, interpretação e escrita em Inglês, preciso praticar "Speaking";
-- 🤓 Sou entusiasta do Motion Design. After Effects já é um parceiro - confira meus trabalhos no Instagram @tfxmotion;
-- 🎸 Meu Hobbie favorito é tocar violão... ou me arriscar em qualquer outro instrumento rsrs!
+- 🤓 Sou apaixonado por tecnologia e meus principais hobbies envolvem drones, VFX, tocar Violão.
 - 📫 Entre em contato comigo pelo email: thulio50@hotmail.com
 
 <!---
